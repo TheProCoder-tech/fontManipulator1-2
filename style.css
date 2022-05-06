@@ -1,0 +1,26 @@
+.heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 22px;
+}
+.note{
+    color: black;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.copyright_footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: dimgray;
+    line-height: 3;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+canvas{
+    border-radius: 20px;
+    border-width: 7px;
+    border-color: chocolate;
+    border-style: solid;
+}
